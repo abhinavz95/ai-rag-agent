@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-google-genai
+chromadb
+pydantic
+python-dotenv
+tiktoken
+
+Using a widely available HuggingFace embedding model for local RAG
+
+sentence-transformers
